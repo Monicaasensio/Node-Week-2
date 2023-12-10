@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Johnny Adames",
+      "employeeID": 20231,
+      "salary": 65000,
+      "department": "Sales"
+    },
+    {
+      "name": "Monica Asensio",
+      "employeeID": 20232,
+      "salary": 75000,
+      "department": "Marketing"
+    },
+    {
+      "name": "Mayte Ramirez",
+      "employeeID": 20233,
+      "salary": 80000,
+      "department": "Finance"
+    },
+    {
+      "name": "Ciara Welborn",
+      "employeeID": 20234,
+      "salary": 70000,
+      "department": "HR"
+    },
+    {
+      "name": "Kiara Perez",
+      "employeeID": 20235,
+      "salary": 90000,
+      "department": "Engineering"
+    },
+    {
+      "name": "Ana Ramirez",
+      "employeeID": 20236,
+      "salary": 65000,
+      "department": "Sales"
+    },
+    {
+      "name": "Javier Fernandez",
+      "employeeID": 20237,
+      "salary": 85000,
+      "department": "Research"
+    },
+    {
+      "name": "Cesar Guandice",
+      "employeeID": 20238,
+      "salary": 72000,
+      "department": "Customer Support"
+    },
+    {
+      "name": "Brenda Lopez",
+      "employeeID": 20239,
+      "salary": 95000,
+      "department": "Product Development"
+    },
+    {
+      "name": "Gabriela Karina",
+      "employeeID": 202310,
+      "salary": 68000,
+      "department": "Quality Assurance"
+    }
+  ]
